@@ -1,0 +1,27 @@
+﻿,Positive  ,False_Positive,False_Negative ,Negative
+Random Forest ,70,1,3,40
+Decision Tree,67,4,3,40
+Logistic Regression ,70,1,1,42
+SVM,71,0,2,41
+Optimized Neural Network ,71,0,1,42
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
